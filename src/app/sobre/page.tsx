@@ -6,6 +6,15 @@ import TeamMember from '../components/TeamMember'
 
 const teamMembers = [
   {
+    name: 'Ana Carolina Cebin Pereira',
+    image: '/Ana.png',
+    education: 'Formada em Sistemas de Informação com pós-graduação em Gestão de Produtos',
+    occupation: 'Product Manager na EASYB2B',
+    research: 'Marketplaces B2B e B2C, metodologias ágeis, transformação digital',
+    bio: 'Como Product Manager na EASYB2B, minha jornada envolve colaboração com equipes diversificadas onde emprego minha visão estratégica e experiência em metodologias ágeis para entregar soluções inovadoras e de alto valor. Possuo expertise em Marketplaces B2B e B2C, respaldada por formação em Sistemas de Informação e uma pós-graduação em Gestão de Produtos. Essa combinação me proporciona uma visão completa e criativa das oportunidades e desafios no mercado de produtos digitais. Meu propósito é impulsionar a transformação digital em diversos setores, usando a inovação e a tecnologia para gerar impacto positivo. Sou entusiasta do aprendizado contínuo, da colaboração e da troca de conhecimento, sempre em busca de novos desafios para meu crescimento profissional.',
+    lattes: 'https://www.linkedin.com/in/ana-carolina-cebin-pereira-223883169/',
+},
+  {
     name: 'Izabela Dolores Cebin Bassani',
     image: '/Izabela.jpeg',
     education: 'Doutora em Geografia pela Universidade Federal do Espírito Santo (2020)',
